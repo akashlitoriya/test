@@ -1,0 +1,5 @@
+{{user}}
+Name: Akash Litoriya
+Skills: HTML, CSS, JS, ReactJS, Redux, TailwindCSS, Bootstrap, Git
+Email: akashlitoriya8@gmail.com
+{{/user}}
